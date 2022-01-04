@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+int a;
+printf("Enter a number:\n");
+scanf("%d",&a);
+printf("ASCII value is %c\n", a);
+printf("This program is programmed by SACHIN BAMNIYA/21U03014");
+return 0;
+}
